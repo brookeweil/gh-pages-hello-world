@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-pages-hello-world/static/css/main.073c9b0a.css",
+    "main.js": "/gh-pages-hello-world/static/js/main.356ffcff.js",
+    "index.html": "/gh-pages-hello-world/index.html",
+    "main.073c9b0a.css.map": "/gh-pages-hello-world/static/css/main.073c9b0a.css.map",
+    "main.356ffcff.js.map": "/gh-pages-hello-world/static/js/main.356ffcff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.356ffcff.js"
+  ]
+}
