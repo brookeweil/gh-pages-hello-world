@@ -14,7 +14,7 @@
   "homepage": "https://brookeweil.github.io/gh-pages-hello-world/",
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "react-app-rewired build && node versionUtil.js",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
